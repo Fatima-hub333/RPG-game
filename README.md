@@ -3,10 +3,10 @@
 # RPG Game
 It's a characters base javaScript game. Where one character attack another one & they fight until all characters died. This game is built in HTML5, CSS3, & javaScript.
 
-![screenshot](Google_Clone.png)
+![screenshot](images/RPG-review.png)
 
 ## [LiveDemo] 
-(https://zesty-smakager-1f2b9d.netlify.app)
+(hhttps://effervescent-moxie-41e310.netlify.apps)
 
 ## Built With
 
