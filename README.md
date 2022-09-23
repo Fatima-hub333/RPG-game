@@ -6,7 +6,7 @@ It's a characters base javaScript game. Where one character attack another one &
 ![screenshot](images/RPG-review.png)
 
 ## [LiveDemo] 
-(hhttps://effervescent-moxie-41e310.netlify.apps)
+(https://effervescent-moxie-41e310.netlify.apps)
 
 ## Built With
 
